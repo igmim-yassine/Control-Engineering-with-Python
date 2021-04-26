@@ -4,7 +4,7 @@
 
 ## Team
 
-🖥 Teams meeting URL: https://teams.microsoft.com/l/meetup-join/19:cb2a522a1ca44068916be3df5be4bab1@thread.tacv2/1619432805274?context=%7B%22Tid%22:%2239626157-a047-4689-87a2-6fa645cb5cb7%22,%22Oid%22:%2204ab83bf-c75f-4b87-b5a4-11d1bf11df24%22%7D
+🖥 Teams meeting URL: shorturl.at/tvFH0
 
   - Student 1: **Yassine BENIGUEMIM**
 
