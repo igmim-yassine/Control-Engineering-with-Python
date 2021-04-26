@@ -6,13 +6,13 @@
 
 🖥 Teams meeting URL: ❔
 
-  - Student 1: ❔
+  - Student 1: Yassine BENIGUEMIM
 
-  - Student 2: ❔
+  - Student 2: Anas MOUJAHID
 
-  - Student 3: ❔
+  - Student 3: Abdelmonim BAJDIR
 
-  - Student 4: ❔
+  - Student 4: Mohamed Ettahiri
 
 ## Getting Started
 
