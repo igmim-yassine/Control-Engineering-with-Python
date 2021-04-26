@@ -1,0 +1,14 @@
+name: control-engineering-with-python-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - black
+  - numpy
+  - scipy
+  - autograd
+  - sympy
+  - matplotlib
+  - jupyter
+  - jupytext
